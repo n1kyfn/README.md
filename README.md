@@ -1,5 +1,5 @@
 # 🌟 Who Am I?
-### My name is <b>n1ky</b>, I'm novice frontend developer. In the future, I will be able to create cool websites for you.😊
+### My name is <strong>n1ky</strong>, I'm novice frontend developer. In the future, I will be able to create cool websites for you.😊
 
 # 💻 My Tech Stack
 ![html](https://github.com/user-attachments/assets/535d7ed4-c90f-4edb-8993-67d5c1fdc878)
@@ -16,3 +16,7 @@
   <li>VK: <a href="https://vk.com/huinyia" alt="vk">Click</a></li>
   <li>Discord: <a href="https://discordapp.com/users/n1kyfn" alt="discord">Click</a></li>
 </ul>
+
+#
+![github-snake](https://github.com/user-attachments/assets/f1670541-b22a-48b0-b11b-b701b90a8370)
+#
